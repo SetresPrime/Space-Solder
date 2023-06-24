@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AngryBots.unity
+    guid: 30ab62196ea1248d6844170e785c04bf
   m_configObjects: {}
